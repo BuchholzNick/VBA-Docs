@@ -25,7 +25,7 @@ Use the **Font** property to return the **Font** object. The following instructi
 Selection.Font.Bold = True
 ```
 
-The following example formats the first paragraph in the active document as 24point Arial and italic.
+The following example formats the first paragraph in the active document as 24point Arial and bold.
 
 
 
@@ -39,7 +39,7 @@ With myRange.Font
 End With
 ```
 
-The following example changes the formatting of the Heading 2 style in the active document to Arial and bold.
+The following example changes the formatting of the Heading 2 style in the active document to Arial and italic.
 
 
 
